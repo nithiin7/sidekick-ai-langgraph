@@ -1,0 +1,29 @@
+# Core dependencies
+langgraph>=0.0.40
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+langchain-experimental>=0.0.50
+
+# OpenAI integration
+openai>=1.0.0
+
+# Web framework
+gradio>=4.0.0
+
+# Browser automation
+playwright>=1.40.0
+
+# Environment and utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+typing-extensions>=4.0.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Development dependencies (optional)
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
